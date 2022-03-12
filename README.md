@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LebogangBywang
+- 👋 Hi, I’m @LebogangBywang, a Software Developer
 - 👀 I’m interested in all thing Tech
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on IoT
